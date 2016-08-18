@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <people>
+   <person>
+    <name>Ronaldo</name>
+    <age>31</age>
+    <price>100</price>
+    <amount>325</amount>
+    <des>Cristiano Ronaldo dos Santos Aveiro GOIH  known as Cristiano Ronaldo, is a Portuguese professional footballer who plays for Spanish club Real Madrid and the Portugal national team. He is a forward and serves as captain for Portugal.</des>
+    <num>7</num>
+    <club>Real madrid</club>
+    <country>Portuguese</country>
+    <latitude>40.453275</latitude>
+    <longitude>-3.688291</longitude>
+    <image>c.jpeg</image>
+    <marker>Santiago Bernabu Stadium</marker>
+    <url>https://www.youtube.com/watch?v=zI5AGeBNMvM</url>    
+    <position>Forward</position>  
+    <reward>At the age of 15, Ronaldo was diagnosed with a racing heart, a condition that might have forced him to give up playing football. The Sporting staff were made aware of the condition and Ronaldo's mother gave her authorisation for him to go into hospital.</reward>
+   </person>
+<person>
+    <name>Bale</name>
+    <age>24</age>
+    <price>80</price>
+    <amount>266</amount>
+    <des>Gareth Frank Bale is a Welsh professional footballer who plays as a winger for Real Madrid and the Wales national team. He began his professional career at Southampton, playing at left-back and earning acclaim as a free kick specialist.</des>
+    <num>11</num>
+    <club>Real madrid</club>
+    <country>Wales</country>
+    <latitude>40.453275</latitude>
+    <longitude>-3.688291</longitude>
+    <image>bell.jpeg</image>
+    <marker>Santiago Bernabéu Stadium</marker>
+    <url>https://www.youtube.com/watch?v=z03hx1Ibsm4</url>    
+    <position>Forward</position>  
+    <reward>On 17 April 2006, at the age of 16 years and 275 days, Bale became the second youngest player ever to play for Southampton when he made his debut in the Saints victory against Millwall. On 6 August, Bale scored his first league goal, a free kick, to level the score at  against Derby County. The final score at Pride Park was 2 and 2.</reward>
+</person>
+<person>
+    <name>Messi</name>
+    <age>28</age>
+    <price>110</price>
+    <amount>288</amount>
+    <des>Lionel Andrs Messi  is an Argentine professional footballer who plays as a forward for Spanish club Barcelona and the Argentina national team. Often considered the best player in the world and rated by many in the sport as the greatest of all time</des>
+    <num>10</num>
+    <club>FC Barcelona</club>
+    <country>Argentine</country>
+    <latitude>41.381137</latitude>
+    <longitude>2.122841</longitude>
+    <image>mx.jpeg</image>
+    <marker>Barcelona</marker>
+    <url>https://www.youtube.com/watch?v=R2UCrkMttNY</url> 
+    <position>Forward</position>
+    <reward>During the 200304 season, his fourth with Barcelona, Messi rapidly progressed through the clubs ranks, debuting for a record five teams in a single campaign. After being named player of the tournament in four international preseason competitions with the Juveniles B, he played only one official match with the team before being promoted to the Juveniles A, where he scored 18 goals in 11 league games.</reward>
+</person>
+<person>
+    <name>Neymar</name>
+    <age>24</age>
+    <price>85</price>
+    <amount>128</amount>
+    <des>Neymar da Silva Santos Jnior commonly known as Neymar, is a Brazilian professional footballer who plays for Spanish club FC Barcelona and the Brazil national team as a forward or winger, and is also the captain of the national team.</des>
+    <num>11</num>
+    <club>FC Barcelona</club>
+    <country>Brazilian</country>
+    <latitude>41.381137</latitude>
+    <longitude>2.122841</longitude>
+    <image>nm.jpeg</image>
+    <marker>Barcelona</marker>
+    <url>https://www.youtube.com/watch?v=aItdArimyjA</url>   
+    <position>Forward</position>
+    <reward>Neymar began playing football at an early age and he was soon spotted by Santos FC who offered him a contract in 2003, where he was inducted into their youth academy, which has, in the past, produced Brazilian internationals. He also joined the likes of Pepe, Pel and Robinho in starting out his career at the club, nicknamed Peixe.</reward>
+</person>
+<person>
+    <name>Neuer</name>
+    <age>24</age>
+    <price>68</price>
+    <amount>35</amount>
+    <des>Manuel Peter Neuer  is a German footballer who plays as a goalkeeper for Bayern Munich and the Germany national team. He has been described as a "sweeper-keeper" because of his unique playing style and speed when rushing off his line;[4] he is also known for his quick reflexes</des>
+    <num>1</num>
+    <club>Bayern Munich</club>
+    <country>German</country>
+    <latitude>48.219043</latitude>
+    <longitude>11.624675</longitude>
+    <image>nuoyi.jpg</image>
+    <marker>Bayern Munich</marker>
+    <url>https://www.youtube.com/watch?v=dIGqcIYvq6M</url>    
+    <position>Defender</position>
+    <reward>Neuerd began playing football at an early age and he was soon spotted by Santos FC who offered him a contract in 2003, where he was inducted into their youth academy, which has, in the past, produced Brazilian internationals. He also joined the likes of Pepe, Pel and Robinho in starting out his career at the club, nicknamed Peixe.</reward>
+</person>
+<person>
+    <name>Silva</name>
+    <age>25</age>
+    <price>80</price>
+    <amount>69</amount>
+    <des>Thiago Emiliano da Silva , commonly known as Thiago Silva, is a Brazilian professional footballer who plays as a central defender for Ligue 1 club Paris Saint-Germain and the Brazilian national team.</des>
+    <num>2</num>
+    <club>Paris SG</club>
+    <country>Brazil</country>
+    <latitude>48.841619</latitude>
+    <longitude>2.253950</longitude>
+    <image>xierwa-2.jpg</image>
+    <marker>Le Parc des Princes</marker>
+    <url>https://www.youtube.com/watch?v=x0E1fsN9Vzg</url>  
+    <position>Defender</position>
+    <reward>Silva began playing football at an early age and he was soon spotted by Santos FC who offered him a contract in 2003, where he was inducted into their youth academy, which has, in the past, produced Brazilian internationals. He also joined the likes of Pepe, Pel and Robinho in starting out his career at the club, nicknamed Peixe.</reward>
+</person>
+<person>
+    <name>Lahm</name>
+    <age>22</age>
+    <price>60</price>
+    <amount>25</amount>
+    <des>Philipp Lahm  is a German professional footballer who plays as a right back or defensive midfielder for Bayern Munich. He played for the German national team until his retirement in 2014 from international football. He is the captain of his club</des>
+    <num>21</num>
+    <club>Bayern Munich</club>
+    <country>German</country>
+    <latitude>48.219043</latitude>
+    <longitude>11.624675</longitude>
+    <image>lamu-1.ipg</image>
+    <marker>Bayern Munich</marker>
+    <url>https://www.youtube.com/watch?v=b3GaUVJOprM</url>  
+    <position>Defender</position>  
+ <reward>Lahm began playing football at an early age and he was soon spotted by Santos FC who offered him a contract in 2003, where he was inducted into their youth academy, which has, in the past, produced Brazilian internationals. He also joined the likes of Pepe, Pel and Robinho in starting out his career at the club, nicknamed Peixe.</reward>
+</person>
+<person>
+    <name>Lewan</name>
+    <age>24</age>
+    <price>100</price>
+    <amount>325</amount>
+    <des>Robert Lewandowski is a Polish professional footballer who plays as a striker for German club Bayern Munich, and captains the Poland national team.</des>
+    <num>54</num>
+    <club>Bayern Munich</club>
+    <country>Poland</country>
+    <latitude>48.219043</latitude>
+    <longitude>11.624675</longitude>
+    <image>laiwan-1.jpg</image>
+    <marker>Bayern Munich</marker>
+    <url>https://www.youtube.com/watch?v=NNsnmPVZrNc</url>    
+    <position>Forward</position> 
+     <reward>Lewan began playing football at an early age and he was soon spotted by Santos FC who offered him a contract in 2003, where he was inducted into their youth academy, which has, in the past, produced Brazilian internationals. He also joined the likes of Pepe, Pel and Robinho in starting out his career at the club, nicknamed Peixe.</reward>
+</person>
+<person>
+    <name>Özil</name>
+    <age>27</age>
+    <price>90</price>
+    <amount>125</amount>
+    <des>Mesut Özil is a German footballer who plays for English club Arsenal and the German national team. Özil has been a youth national team member since 2006, and a member of the German national team since 2009. </des>
+    <num>11</num>
+    <club>Arsenal</club>
+    <country>German</country>
+    <latitude>51.555782</latitude>
+    <longitude>-0.108438</longitude>
+    <image>e.jpeg</image>
+    <marker>Emirates Stadium</marker>
+    <url>https://www.youtube.com/watch?v=vZqC12DPSmY</url> 
+    <position>Defender</position>
+     <reward>ozil began playing football at an early age and he was soon spotted by Santos FC who offered him a contract in 2003, where he was inducted into their youth academy, which has, in the past, produced Brazilian internationals. He also joined the likes of Pepe, Pel and Robinho in starting out his career at the club, nicknamed Peixe.</reward>
+</person>
+<person>
+    <name>Rodrguez</name>
+    <age>24</age>
+    <price>100</price>
+    <amount>108</amount>
+    <des>James David Rodriguez known as James Rodriguez, is a Colombian professional footballer who plays for Spanish club. James is commonly ranked as one of the best young players in the world.</des>
+    <num>10</num>
+    <club>Real madrid</club>
+    <country>Colombia</country>
+    <latitude>40.453275</latitude>
+    <longitude>-3.688291</longitude>
+    <image>j.jpeg</image>
+    <marker>Santiago Bernabéu Stadium</marker>
+    <url>https://www.youtube.com/watch?v=KWrKmH8q4Mg</url> 
+    <position>Forward</position>
+    <reward>rodrguez began playing football at an early age and he was soon spotted by Santos FC who offered him a contract in 2003, where he was inducted into their youth academy, which has, in the past, produced Brazilian internationals. He also joined the likes of Pepe, Pel and Robinho in starting out his career at the club, nicknamed Peixe.</reward>
+</person>
+<person>
+    <name>Rooney</name>
+    <age>30</age>
+    <price>89</price>
+    <amount>66</amount>
+    <des>Wayne Mark Rooney  is an English professional footballer who plays for and captains both Manchester United and the England national team. He has played much of his career as a forward, but he has also been used in various midfield roles.</des>
+    <num>10</num>
+    <club>Man United</club>
+    <country>England</country>
+    <latitude>53.462599</latitude>
+    <longitude>-2.290053</longitude>
+    <image>ln.jpeg</image>
+    <marker>Manchester United Museum </marker>
+    <url>https://www.youtube.com/watch?v=c02Mlb7bjsQ</url>   
+    <position>Forward</position>
+    <reward>rooney began playing football at an early age and he was soon spotted by Santos FC who offered him a contract in 2003, where he was inducted into their youth academy, which has, in the past, produced Brazilian internationals. He also joined the likes of Pepe, Pel and Robinho in starting out his career at the club, nicknamed Peixe.</reward>
+</person>
+<person>
+    <name>Ramos</name>
+    <age>29</age>
+    <price>80</price>
+    <amount>65</amount>
+    <des>Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spain national football team. He serves as captain for Real Madrid. A central defender, he can also play as a right back, a position he primarily fulfilled earlier in his career.</des>
+    <num>4</num>
+    <club>Real Madrid</club>
+    <country>Spanishramos</country>
+    <latitude>40.453275</latitude>
+    <longitude>-3.688291</longitude>
+    <image>lm.jpeg</image>
+    <marker>Santiago Bernabu Stadium</marker>
+    <url>https://www.youtube.com/watch?v=oE9PI-4rgUA</url>
+    <position>Defender</position>
+    <reward>ramos began playing football at an early age and he was soon spotted by Santos FC who offered him a contract in 2003, where he was inducted into their youth academy, which has, in the past, produced Brazilian internationals. He also joined the likes of Pepe, Pel and Robinho in starting out his career at the club, nicknamed Peixe.</reward>
+</person>
+<person>
+    <name>Varane</name>
+    <age>22</age>
+    <price>60</price>
+    <amount>98</amount>
+    <des>He previously played for French club Lens and, ahead of the season, began training with the senior team and appeared on the bench in several league matches. On 7 November 2010, Varane made his professional debut in a league match against Montpellier.[3] Varane has been described by Lens youth coach Eric Assadourian as a who is comfortable on both the tactical and technical level.In January 2014, he was named by The Guardian as one of the ten most promising young players in Europe.</des>
+    <num>2</num>
+    <club>Real Madrid</club>
+    <country>Frence</country>
+    <latitude>40.453275</latitude>
+    <longitude>-3.688291</longitude>
+    <image>wl.jpeg</image>
+     <marker>Santiago Bernabu Stadium</marker>
+    <url>https://www.youtube.com/watch?v=I5oED64eW4U</url>
+    <position>Defender</position>
+    <reward>varana began playing football at an early age and he was soon spotted by Santos FC who offered him a contract in 2003, where he was inducted into their youth academy, which has, in the past, produced Brazilian internationals. He also joined the likes of Pepe, Pel and Robinho in starting out his career at the club, nicknamed Peixe.</reward>
+</person>
+<person>
+    <name>Pepe</name>
+    <age>33</age>
+    <price>68</price>
+    <amount>80</amount>
+    <des>Kpler Laveran Lima Ferreira, is a Portuguese professional footballer who plays for Spanish club Real Madrid and the Portuguese national team as a central defender. During his professional career he has played for Martimo, Porto and Real Madrid, with individual and team success with the latter two clubs. A physically strong and tenacious defender, he is known for his aggressive challenges and for his violent behaviour on the pitch.</des>
+    <num>3</num>
+     <club>Real Madrid</club>
+    <country>Portuguese</country>
+    <latitude>40.453275</latitude>
+    <longitude>-3.688291</longitude>
+    <image>pp.jpeg</image>
+    <marker>Santiago Bernabu Stadium</marker>
+    <url>https://www.youtube.com/watch?v=ml42SGm7KE4</url>
+    <position>Defender</position>
+   <reward>pepe began playing football at an early age and he was soon spotted by Santos FC who offered him a contract in 2003, where he was inducted into their youth academy, which has, in the past, produced Brazilian internationals. He also joined the likes of Pepe, Pel and Robinho in starting out his career at the club, nicknamed Peixe.</reward>
+</person>
+<person>
+    <name>Suarez</name>
+    <age>29</age>
+    <price>100</price>
+    <amount>150</amount>
+    <des>Luis Alberto Surez Daz (American Spanish is a Uruguayan professional footballer who plays for Spanish club Barcelona and the Uruguay national team as a striker. In July 2014, he moved from Liverpool to Barcelona for a fee reported by the English press in the region of 75 million (94 million), while Barcelona claim a fee of 65 million (81 million), making him the third-most expensive player in football history.</des>
+    <num>9</num>
+    <club>Barcelona</club>
+    <country>Uruguayan</country>
+    <latitude>41.381137</latitude>
+    <longitude>2.122841</longitude>
+    <image>sy.jpeg</image>
+     <marker>Barcelona</marker>
+    <url>https://www.youtube.com/watch?v=EziF_7k_Sug</url>
+    <position>Forward</position>
+    <reward>Luis Suarez began playing football at an early age and he was soon spotted by Santos FC who offered him a contract in 2003, where he was inducted into their youth academy, which has, in the past, produced Brazilian internationals. He also joined the likes of Pepe, Pel and Robinho in starting out his career at the club, nicknamed Peixe.</reward>
+</person>
+<person>
+    <name>Kroos</name>
+    <age>26</age>
+    <price>70</price>
+    <amount>255</amount>
+    <des>A member of Bayern Munichs first team at the age of 17, Kroos became a regular after an 18-month loan spell at Bayer Leverkusen, and won honours including three Bundesliga titles and the 2013 Champions League. After winning the World Cup in 2014, he joined Real Madrid on a six-year contract. He has been praised by journalists and former professionals as a player with all the qualities for the role of an attacking midfielder</des>
+    <num>8</num>
+     <club>Real Madrid</club>
+    <country>Germany</country>
+    <latitude>40.453275</latitude>
+    <longitude>-3.688291</longitude>
+    <image>kr.jpeg</image>
+    <marker>Santiago Bernabu Stadium</marker>
+    <url>https://www.youtube.com/watch?v=ybd1l-Pm9A4</url>
+    <position>Defender</position>
+    <reward>kroos Suarez began playing football at an early age and he was soon spotted by Santos FC who offered him a contract in 2003, where he was inducted into their youth academy, which has, in the past, produced Brazilian internationals. He also joined the likes of Pepe, Pel and Robinho in starting out his career at the club, nicknamed Peixe.</reward>
+</person>
+</people>
